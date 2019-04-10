@@ -48,6 +48,7 @@
     "serve": "gatsby serve",
     "lint": "eslint . --ext .js,.jsx --ignore-path .gitignore",
     "lint:fix": "eslint --fix . --ext .js,.jsx --fix --ignore-path .gitignore",
+    "lint:ci": "eslint --format junit -o results/eslint/result.xml",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "check": "npx npm-check-updates -u"
   },
