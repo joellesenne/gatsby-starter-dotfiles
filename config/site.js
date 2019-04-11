@@ -11,10 +11,10 @@ const meta = {
   siteDescription: basics.siteDescription,
   siteHeadline: basics.siteDescription,
   siteTitleManifest: basics.siteName,
-  siteUrl: '',
+  siteUrl: 'https://joellesenne.xyz',
   siteLogo: 'image.logo.png',
   siteBanner: '',
-  siteLang: 'en',
+  siteLang: 'fr',
   favicon: '',
   author: basics.siteName,
 }
