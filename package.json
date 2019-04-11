@@ -2,7 +2,7 @@
   "name": "gatsby-starter-dotfiles",
   "private": true,
   "description": "Personal dotfile for projects Gatsbyjs",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "Joël Lesenne <contac@joellesenne.xyz>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
