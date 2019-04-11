@@ -3,7 +3,7 @@
 
 [![CircleCI](https://circleci.com/gh/joellesenne/gatsby-starter-dotfiles.svg?style=svg)](https://circleci.com/gh/joellesenne/gatsby-starter-dotfiles) [![Build Status](https://travis-ci.com/joellesenne/gatsby-starter-dotfiles.svg?branch=master)](https://travis-ci.com/joellesenne/gatsby-starter-dotfiles)
 
-[![GitHub license](https://img.shields.io/badge/Mit-License-blue.svg?style=flat-square)](https://github.com/joellesenne/https//joellesenne.xyz/blob/master/LICENSE) [![Joel Lesenne Homepage](https://img.shields.io/badge/joellesenne-HomePage-blue.svg?style=flat-square)](https//joellesenne.xyz) ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
+[![GitHub license](https://img.shields.io/badge/Mit-License-blue.svg?style=flat-square)](https://github.com/joellesenne/https//joellesenne.xyz/blob/master/LICENSE) [![Joel Lesenne Homepage](https://img.shields.io/badge/joellesenne-HomePage-blue.svg?style=flat-square)](https//joellesenne.xyz) [![Greenkeeper badge](https://badges.greenkeeper.io/joellesenne/gatsby-starter-dotfiles.svg)](https://greenkeeper.io/) ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
 
 Personal dotfiles for projects Gatsbyjs
 
