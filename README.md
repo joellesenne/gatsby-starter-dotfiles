@@ -1,30 +1,71 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-# Gatsby's starter dotfiles
+# Welcome to ReplaceNameSite 👋
 
-[![CircleCI](https://circleci.com/gh/joellesenne/gatsby-starter-dotfiles.svg?style=svg)](https://circleci.com/gh/joellesenne/gatsby-starter-dotfiles) [![Build Status](https://travis-ci.com/joellesenne/gatsby-starter-dotfiles.svg?branch=master)](https://travis-ci.com/joellesenne/gatsby-starter-dotfiles)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](documentation url)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Twitter: joellesenne](https://img.shields.io/twitter/follow/joellesenne.svg?style=social)](https://twitter.com/joellesenne)
 
-[![GitHub license](https://img.shields.io/badge/Mit-License-blue.svg?style=flat-square)](https://github.com/joellesenne/https//joellesenne.xyz/blob/master/LICENSE) [![Joel Lesenne Homepage](https://img.shields.io/badge/joellesenne-HomePage-blue.svg?style=flat-square)](https//joellesenne.xyz) [![Greenkeeper badge](https://badges.greenkeeper.io/joellesenne/gatsby-starter-dotfiles.svg)](https://greenkeeper.io/) ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
+## Table of Contents
++ [About](#about)
++ [Built with](#built_with)
++ [Getting Started](#getting_started)
++ [Usage](#usage)
++ [Contributing](./CONTRIBUTING.md)
 
-Personal dotfiles for projects Gatsbyjs
+## About <a name = "about"></a>
+>Write about 1-2 paragraphs describing the purpose of your project.
 
-``` bach
-
-~ $ git clone  https://github.com/joellesenne/gatsby-starter-dotfiles.git
-~ $ cd gatsby-starter-dotfiles
-
-// or
-~ $ gatsby new <nameSite> https://github.com/joellesenne/gatsby-starter-dotfiles.git
-~ $ cd <nameSite>
+## 🛠 Built with <a name = "built_with"></a>
++ Listed dependance link
 
 
-// install
-npm install
+## 🖥 Good started <a name = "getting_started"></a>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-// run
-~ $ gatsby develop -o // http://localhost:8000/
+### Prerequisites
 
+What things you need to install the software and how to install them.
+
+```shell
+# Node version
+~ $ node --version
+
+# NPM version
+~ $ npm --version
+
+# Git version
+~ $ git --version
 ```
 
+### Installing
+
+A step by step series of examples that tell you how to get a development env running.
+
+Say what the step will be
+
+And repeat
 
 
-Inspiration [LekoArts/dotfiles](https://github.com/LekoArts/dotfiles)
+End with an example of getting some data out of the system or using it for a little demo.
+
+## ⚙ Usage <a name = "usage"></a>
+
+Add notes about how to use the system.
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check [issues page](Issues page url).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+[![support us](https://img.shields.io/badge/become-a patreon%20us-orange.svg?cacheSeconds=2592000)](https://www.patreon.com/joellesenne)
+
+## 📝 License
+
+Copyright © 2019 [Joël Lesenne](https://github.com/joellesenne).
+
+This project is [MIT](LICENSE) licensed.
