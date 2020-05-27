@@ -7,7 +7,6 @@
   "editor.fontSize": 18,
   "editor.lineHeight": 25,
   "editor.tabSize": 2,
-  "editor.fontFamily": "Source Code Pro, Consolas, monospace",
   "editor.minimap.enabled": false,
   "editor.wordWrap": "on",
   "editor.snippetSuggestions": "top",
