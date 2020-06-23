@@ -20,7 +20,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
-    "snyk": "^1.339.3",
+    "snyk": "^1.347.1",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
@@ -28,7 +28,9 @@
     "cypress": "^4.8.0",
     "cypress-testing-library": "^4.0.0",
     "dotenv": "^8.2.0",
-    "eslint": "^7.3.0",
+
+    "eslint": "^7.3.1",
+
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.21.2",
@@ -36,7 +38,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.0",
     "prettier": "^2.0.5",
-    "semantic-release": "^17.0.8"
+    "semantic-release": "^17.1.0"
   },
   "keywords": [
     "react, gatsby, gatsby-starter gatsby-dotfiles"
