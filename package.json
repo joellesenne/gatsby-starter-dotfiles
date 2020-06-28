@@ -38,7 +38,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.0",
     "prettier": "^2.0.5",
-    "semantic-release": "^17.1.0"
+    "semantic-release": "^17.1.1"
   },
   "keywords": [
     "react, gatsby, gatsby-starter gatsby-dotfiles"
