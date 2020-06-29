@@ -11,7 +11,7 @@ const meta = {
   siteDescription: basics.siteDescription,
   siteHeadline: basics.siteDescription,
   siteTitleManifest: basics.siteName,
-  siteUrl: 'https://joellesenne.xyz',
+  siteUrl: 'https://joellesenne.dev',
   siteLogo: 'image.logo.png',
   siteBanner: '',
   siteLang: 'fr',
