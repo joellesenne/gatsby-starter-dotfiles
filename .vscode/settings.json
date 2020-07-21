@@ -12,6 +12,9 @@
   "editor.snippetSuggestions": "top",
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "all",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
   "[javascriptreact]": {
     "editor.formatOnSave": false
   },
@@ -25,7 +28,7 @@
   "workbench.startupEditor": "welcomePage",
   "workbench.activityBar.visible": true,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Night Owl",
+  "workbench.colorTheme": "Winter is Coming (Dark Blue)",
   "material-icon-theme.showUpdateMessage": false,
   "window.menuBarVisibility": "toggle",
   "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
@@ -34,11 +37,10 @@
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.cursorStyle": "line",
   // Eslint
-  "eslint.autoFixOnSave": true,
   "eslint.alwaysShowStatus": true,
   "eslint.codeAction.disableRuleComment": {
     "enable": true,
-    "location": ["src", "config"]
+    "location": "separateLine"
   },
   "javascript.format.enable": false,
   // Prettier
