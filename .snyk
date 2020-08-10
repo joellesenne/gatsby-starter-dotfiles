@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.14.1
+version: v1.19.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -140,3 +140,17 @@ patch:
         patched: '2020-05-04T02:20:59.813Z'
     - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
         patched: '2020-05-04T02:20:59.813Z'
+    - gatsby > gatsby-cli > gatsby-recipes > concurrently > lodash:
+        patched: '2020-08-10T01:23:05.443Z'
+    - gatsby > gatsby-cli > gatsby-recipes > contentful-management > lodash:
+        patched: '2020-08-10T01:23:05.443Z'
+    - gatsby > gatsby-cli > gatsby-recipes > formik > lodash:
+        patched: '2020-08-10T01:23:05.443Z'
+    - gatsby > gatsby-cli > gatsby-recipes > yup > lodash:
+        patched: '2020-08-10T01:23:05.443Z'
+    - gatsby > gatsby-cli > gatsby-recipes > contentful-management > contentful-sdk-core > lodash:
+        patched: '2020-08-10T01:23:05.443Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @emotion/styled > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-08-10T01:23:05.443Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-08-10T01:23:05.443Z'
