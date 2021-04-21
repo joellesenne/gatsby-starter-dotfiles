@@ -1,7 +1,7 @@
 // Basics
 const basics = {
   siteName: 'Gatsby Starter Dotfiles',
-  siteDescription: 'Personal dotfiles for projects Gatsbyjs',
+  siteDescription: 'Personal dotfiles for projects Gatsby.js',
 }
 
 // MetaData
