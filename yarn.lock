@@ -5339,10 +5339,10 @@ cypress-testing-library@^4.0.0:
   resolved "https://registry.yarnpkg.com/cypress-testing-library/-/cypress-testing-library-4.0.0.tgz#e3d19d380ea3f8601281aa94a6e20a13e4f1ff6f"
   integrity sha512-KDbVw7kgEylLOZZDO4yiDlKySLzJsPLjHn5FfKL0tqCYYR3xbdIamKRap1r96/CXL8y5V05lAunnoAFQkKpIFw==
 
-cypress@^7.1.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/cypress/-/cypress-7.1.0.tgz#6cb5dc22c6271a9d7a79a2477251a95afc77e531"
-  integrity sha512-AptQP9fVtN/FfOv8rJ9hTGJE2XQFc8saLHT38r/EeyWhzp0q/+P/DYRTDtjGZHeLTCNznAUrT4lal8jm+ouS7Q==
+cypress@^7.2.0:
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/cypress/-/cypress-7.2.0.tgz#6a3364e18972f898fff1fb12c1ff747939e45ddc"
+  integrity sha512-lHHGay+YsffDn4M0bkkwezylBVHUpwwhtqte4LNPrFRCHy77X38+1PUe3neFb3glVTM+rbILtTN6FhO2djcOuQ==
   dependencies:
     "@cypress/listr-verbose-renderer" "^0.4.1"
     "@cypress/request" "^2.88.5"
